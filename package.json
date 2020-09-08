@@ -1,0 +1,26 @@
+{
+  "name": "cheapStocksInc",
+  "version": "1.0.0",
+  "description": "Focus Mobile Take Home Challenge",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Kimutai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csv-parse": "^4.12.0",
+    "csv-parser": "^2.3.3",
+    "currency-formatter": "^1.5.6",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "google-libphonenumber": "^3.2.13",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mongoose": "^5.9.3",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  }
+}
